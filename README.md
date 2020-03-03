@@ -62,3 +62,11 @@ $ INSERT INTO `topic` VALUES (3,'SQL Server','SQL Server is ...','2018-01-20 11:
 $ INSERT INTO `topic` VALUES (4,'PostgreSQL','PostgreSQL is ...','2018-01-23 01:03:03',3);
 $ INSERT INTO `topic` VALUES (5,'MongoDB','MongoDB is ...','2018-01-30 12:31:03',1);
 ```
+
+## Node.js MySQL 모듈의 기본 사용방법
+
+https://github.com/mysqljs/mysql
+
+```bash
+$ npm i mysql
+```
