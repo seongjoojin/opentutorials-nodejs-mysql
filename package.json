@@ -4,20 +4,14 @@
   "description": "https://opentutorials.org/course/3347 Node.js - MySQL",
   "main": "index.js",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2",
+    "sanitize-html": "^1.22.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seongjoojin/opentutorials-nodejs-mysql.git"
+    "start": "nodemon main.js"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/seongjoojin/opentutorials-nodejs-mysql/issues"
-  },
-  "homepage": "https://github.com/seongjoojin/opentutorials-nodejs-mysql#readme"
+  "license": "ISC"
 }
