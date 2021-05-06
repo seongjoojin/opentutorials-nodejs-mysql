@@ -6,7 +6,7 @@
   "dependencies": {
     "mysql": "^2.18.1",
     "nodemon": "^2.0.2",
-    "sanitize-html": "^1.22.0"
+    "sanitize-html": "^2.3.2"
   },
   "devDependencies": {},
   "scripts": {
